@@ -1,4 +1,4 @@
-![image](https://github.com/Diveshkushwaha2021/Diveshkushwaha2021/assets/115889618/3e7cb9e4-3a53-422e-b4c4-9c013a2c4f2b)
+![image](https://github.com/Diveshkushwaha2021/Diveshkushwaha2021/assets/115889618/de7b0712-c996-41fe-9779-9d1a97aa6cd0)
 
 <h1 align="center">Hi 👋, I'm Divesh Singh</h1>
 <h3 align="center">A passionate frontend developer from India .</h3>
